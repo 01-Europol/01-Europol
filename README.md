@@ -1,35 +1,58 @@
-<h1 align="center">👋 Hi, ich bin 01Europol</h1>
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b0b0b,50:1f1f1f,100:3a3a3a&height=180&section=header&text=01Europol&fontSize=44&fontColor=ffffff&animation=fadeIn" />
+
+</div>
 
 <p align="center">
-  🚀 New in Coding • Learning every day<br/>
+  <b>🌑 Dark Coding • Learning • Grinding 🌑</b><br/>
+  <i>New in Coding — Focused on Skill & Progress</i>
 </p>
 
 ---
 
-## 💻 Sprachen & Tools
+## 🕶️ About Me
+
+👤 Name: 01Europol  
+💻 Languages: Python • Lua • Java  
+🧠 Status: Learning every day  
+🌙 Style: Dark / Clean / No BS  
+
+---
+
+## ⚙️ Languages & Tools
 
 <p align="center">
-  <a href="https://www.python.org/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50"/>
+  <img src="https://skillicons.dev/icons?i=python,lua,java,vscode,git,github&theme=dark" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=01Europol-besteleben&show_icons=true&theme=github_dark&hide_border=true" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=01Europol-besteleben&layout=compact&theme=github_dark&hide_border=true" width="48%"/>
+</p>
+
+---
+
+## 🌐 Links
+
+<p align="center">
+  <a href="https://discord.gg/n6EahY6bwT" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-Community-0b0b0b?style=for-the-badge&logo=discord&logoColor=5865F2"/>
   </a>
-  <a href="https://www.lua.org/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" width="50" height="50"/>
-  </a>
-  <a href="https://code.visualstudio.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50" height="50"/>
+  <a href="https://guns.lol/01Europol" target="_blank">
+    <img src="https://img.shields.io/badge/Guns.lol-Profile-0b0b0b?style=for-the-badge&logo=firefox&logoColor=red"/>
   </a>
 </p>
 
 ---
 
-## 📈 GitHub Stats
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=01Europol-besteleben&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=01Europol-besteleben&layout=compact&theme=tokyonight&hide_border=true" width="48%"/>
-</p>
+🖤 **README by 01Europol**  
+<i>Built in the dark — improved in silence.</i>
 
-
-<p align="center">
-  ❤️ README erstellt von <b>01Europol</b>
-</p>
+</div>
