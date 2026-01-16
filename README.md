@@ -32,7 +32,6 @@
 <p align="center">
   <img src="https://img.shields.io/github/followers/01-Europol?label=Followers&style=for-the-badge&color=111111&logo=github&logoColor=white" />
   <img src="https://img.shields.io/github/stars/01-Europol?label=Stars&style=for-the-badge&color=111111&logo=github&logoColor=yellow" />
-  <img src="https://img.shields.io/github/repo-size/01-Europol?label=Repo%20Size&style=for-the-badge&color=111111" />
 </p>
 
 ---
