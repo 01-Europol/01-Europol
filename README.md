@@ -5,8 +5,8 @@
 </div>
 
 <p align="center">
-  <b>🌑 Dark Coding • Learning • Grinding 🌑</b><br/>
-  <i>New in Coding — Focused on Skill & Progress</i>
+  <b>🌑• • • • • • • • • • • • • • • •• • • • • • • •🌑</b><br/>
+  <i>Developer — Focused on Skill & Progress</i>
 </p>
 
 ---
@@ -16,7 +16,6 @@
 👤 Name: 01Europol  
 💻 Languages: Python • Lua • Java  
 🧠 Status: Learning every day  
-🌙 Style: Dark / Clean / No BS  
 
 ---
 
@@ -38,11 +37,6 @@
 ---
 
 ## 🌐 Links
-
-<p align="center">
-  <a href="https://discord.gg/n6EahY6bwT" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-Community-0b0b0b?style=for-the-badge&logo=discord&logoColor=5865F2"/>
-  </a>
   <a href="https://guns.lol/01Europol" target="_blank">
     <img src="https://img.shields.io/badge/Guns.lol-Profile-0b0b0b?style=for-the-badge&logo=firefox&logoColor=red"/>
   </a>
@@ -53,6 +47,6 @@
 <div align="center">
 
 🖤 **README by 01Europol**  
-<i>Built in the dark — improved in silence.</i>
+<i>@2026 - 01Europol</i>
 
 </div>
