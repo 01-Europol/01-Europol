@@ -5,7 +5,7 @@
 </div>
 
 <p align="center">
-  <b>🌑• • • • • • • • • • • • • • • •• • • • • • • •🌑</b><br/>
+  <b>🌑-----------------------------------------🌑</b><br/>
   <i>Developer — Focused on Skill & Progress</i>
 </p>
 
@@ -27,16 +27,19 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats (stable badges)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=01Europol-besteleben&show_icons=true&theme=github_dark&hide_border=true" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=01Europol-besteleben&layout=compact&theme=github_dark&hide_border=true" width="48%"/>
+  <img src="https://img.shields.io/github/followers/01Europol-besteleben?label=Followers&style=for-the-badge&color=111111&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/github/stars/01Europol-besteleben?label=Stars&style=for-the-badge&color=111111&logo=github&logoColor=yellow" />
+  <img src="https://img.shields.io/github/repo-size/01Europol-besteleben?label=Repo%20Size&style=for-the-badge&color=111111" />
 </p>
 
 ---
 
 ## 🌐 Links
+
+<p align="center">
   <a href="https://guns.lol/01Europol" target="_blank">
     <img src="https://img.shields.io/badge/Guns.lol-Profile-0b0b0b?style=for-the-badge&logo=firefox&logoColor=red"/>
   </a>
